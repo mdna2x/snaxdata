@@ -1,5 +1,5 @@
-# snaxmenu
-> Snax Data
+# Snaxdata
+> Snax By God | Data
 
 An inventory based from the Snax By God SZN II series. Links to all 12 Snacks, including transaction details, are preserved in a single [JSON file](db.json).
 
