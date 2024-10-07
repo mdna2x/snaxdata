@@ -11,9 +11,12 @@ Amount per serving <br/>
 ‎ ‎ ‎ ‎ Fetishes 8 <br/>
 ‎ ‎ ‎ ‎ Backgrounds 6 <br/><br/>
 > **Alternative Currencies 3** <br/>
+   *At the time of writing* <br/>
 ‎ ‎ ‎ ‎ ETH‎ 0.17 <br/>
 ‎ ‎ ‎ ‎ DAI 649.28 <br/>
 ‎ ‎ ‎ ‎ SAND‎ 1457.25 <br/>
+
+
 ---
 > **Contract Information** <br/>
  ‎  ‎ Transaction Hash [0x53f7fcaeff39bf9c35115b99faf3984dbe05ea0388f60f6c2c48df611f87f16c](https://polygonscan.com/tx/0x53f7fcaeff39bf9c35115b99faf3984dbe05ea0388f60f6c2c48df611f87f16c) <br/>
